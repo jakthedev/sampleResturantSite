@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="709f7d06-4c03-4223-b6d9-4f50cc4efaa0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/alberto.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/buffet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/uthappizza.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aboutus.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutus.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contactus.html" beforeDir="false" afterPath="$PROJECT_DIR$/contactus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +43,11 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -48,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1597960177419</updated>
       <workItem from="1597960178490" duration="24059000" />
-      <workItem from="1598155364030" duration="2229000" />
+      <workItem from="1598155364030" duration="16609000" />
     </task>
     <servers />
   </component>
