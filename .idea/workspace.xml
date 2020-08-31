@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="709f7d06-4c03-4223-b6d9-4f50cc4efaa0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/lessc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/styles.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aboutus.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contactus.html" beforeDir="false" afterPath="$PROJECT_DIR$/contactus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles-old.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
@@ -65,7 +60,8 @@
       <updated>1597960177419</updated>
       <workItem from="1597960178490" duration="24059000" />
       <workItem from="1598155364030" duration="20272000" />
-      <workItem from="1598534403999" duration="35062000" />
+      <workItem from="1598534403999" duration="37239000" />
+      <workItem from="1598911711841" duration="121000" />
     </task>
     <servers />
   </component>
@@ -80,6 +76,22 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="405" y="227" key="#com.intellij.fileTypes.FileTypeChooser/1280.23.1280.697/0.23.1280.777@0.23.1280.777" timestamp="1598715250893" />
+    <state width="1242" height="193" key="GridCell.Tab.0.bottom" timestamp="1598725349358">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1242" height="193" key="GridCell.Tab.0.bottom/1280.23.1280.697/0.23.1280.777@0.23.1280.777" timestamp="1598725349358" />
+    <state width="1242" height="193" key="GridCell.Tab.0.center" timestamp="1598725349316">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1242" height="193" key="GridCell.Tab.0.center/1280.23.1280.697/0.23.1280.777@0.23.1280.777" timestamp="1598725349316" />
+    <state width="1242" height="193" key="GridCell.Tab.0.left" timestamp="1598725349303">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1242" height="193" key="GridCell.Tab.0.left/1280.23.1280.697/0.23.1280.777@0.23.1280.777" timestamp="1598725349303" />
+    <state width="1242" height="193" key="GridCell.Tab.0.right" timestamp="1598725349345">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1242" height="193" key="GridCell.Tab.0.right/1280.23.1280.697/0.23.1280.777@0.23.1280.777" timestamp="1598725349345" />
     <state x="149" y="47" key="SettingsEditor" timestamp="1598125079375">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
